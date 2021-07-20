@@ -4,9 +4,13 @@
 
 **1.OBJETIVOS**
 
-_Objetivo General_
+_Objetivo General_     
+Entender como funcionan los capacitadores, la capacitancia en un circuito y  en que consiste cada uno de los diferentes teoremas de redes que sirven para la resolución de circuitos complejos  
 
-_Objetivos Específicos_
+_Objetivos Específicos_        
+* Analizar la teoría y ejercicios planteados en los temas y subtemas de cada capitulo.     
+* Realizar un resumen mediante organizadores graficas con el fin de facilitar la comprensión de los temas planteados en cada capitulo.       
+* Comprobar la teoría de los capítulos mediante la resolución de los ejercicios planteados.         
 
 **2. MARCO TEÓRICO**
 
@@ -79,9 +83,15 @@ _Capítulo 10_
 ![Ejer 49](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/49.png)
 
 
-**4. VIDEO**
+**4. VIDEO**    
+Link del video:      
 
-**5. CONCLUSIONES**
+**5. CONCLUSIONES**       
+* Se concluye que al momento de analizar circuitos complejos y al momento de resolverlos, podemos optar por el uso de un teorema de redes para que de esta manera se pueda simplificar el circuito y así poder resolverlo sin ningún tipo de problema.    
+* Al momento de analizar capacitores en los circuitos se concluye que para los capacitores en paralelo, la capacitancia total siempre es más grande que la capacitancia de valor más grande, mientras que para los capacitores en serie , la capacitancia total siempre es menor que la capacitancia de valor más pequeño.
+* Existen diferentes tipos de capacitores, por lo que cada uno es adecuado para diferentes aplicaciones, depende de la aplicación que se le vaya a dar al capacitor , este debe de ser del tipo que sea más adecuado para la tarea, existen algunos capacitadores como los de tipo fijo, de variables con diferentes dieléctricos , entre otros.
 
-**6. BIBLIOGRAFÍA**
+**6. BIBLIOGRAFÍA**       
+
+H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning.
 
