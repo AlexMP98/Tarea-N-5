@@ -14,7 +14,10 @@ _Capítulo 9_
 
 ![Mapa CAP 9-9.3](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Fun.C%20Tarea%205%20resumen%20cap%209.jpg)
 
-_Capítulo 10_
+_Capítulo 10_        
+![MapaCap 10.1](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/MapaCap10.png)       
+![MapaCap 10.2](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/MapaCap10_2.png)        
+![MapaCap 10.3](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/MapaCap10_3.png) 
 
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -58,7 +61,8 @@ _Capítulo 9_
 
 
 
-_Capítulo 10_
+_Capítulo 10_       
+
 
 **4. VIDEO**
 
