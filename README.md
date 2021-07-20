@@ -64,6 +64,21 @@ _Capítulo 9_
 _Capítulo 10_       
 
 
+![Ejer 19](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/19.png)        
+![Ejer 23](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/23.png)       
+![Ejer 25](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/25.png)      
+![Ejer 27](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/27.png)     
+![Ejer 27_1](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/27_1.png)       
+![Ejer 29](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/29.png)         
+![Ejer 31](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/31.png)       
+![Ejer 33](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/33.png)        
+![Ejer 35](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/35.png)        
+![Ejer 37](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/37.png)         
+![Ejer 45](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/45.png)        
+![Ejer 47](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/47.png)       
+![Ejer 49](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/49.png)
+
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
