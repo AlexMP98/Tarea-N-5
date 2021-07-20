@@ -12,6 +12,8 @@ _Objetivos Específicos_
 
 _Capítulo 9_
 
+![Mapa CAP 9-9.3](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Fun.C%20Tarea%205%20resumen%20cap%209.jpg)
+
 _Capítulo 10_
 
 
