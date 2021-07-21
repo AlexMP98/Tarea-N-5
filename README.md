@@ -94,8 +94,6 @@ _Capítulo 10_
 ![Ejer 3-5-7](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/14.PNG)
 ![Ejer 9-11](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/15.PNG)
 ![Ejer 13-15](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/16.PNG)
-![Ejer 19](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/19.png)
-
 ![Ejer 19](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/19.png)        
 ![Ejer 23](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/23.png)       
 ![Ejer 25](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/25.png)      
