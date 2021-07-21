@@ -17,6 +17,10 @@ _Objetivos Específicos_
 _Capítulo 9_
 
 ![Mapa CAP 9-9.3](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Fun.C%20Tarea%205%20resumen%20cap%209.jpg)
+![Mapa CAP 9-4](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Marco%20teorico%20t5.PNG)
+![Mapa CAP 9-5](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Marco%20teorico%20t51.PNG)
+![Mapa CAP 9-6](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Marco%20teorico%20t52.PNG)
+![Mapa CAP 9-7](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Marco%20teorico%20t53.PNG)
 
 _Capítulo 10_        
 ![MapaCap 10.1](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/MapaCap10.png)       
@@ -60,13 +64,37 @@ _Capítulo 9_
 
 ![Ejer 33 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/Ejer%2033.png)
 
+![Ejer 37 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/1.PNG)
 
+![Ejer 39 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/2.PNG)
 
+![Ejer  C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/3.PNG)
 
+![Ejer 41 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/4.PNG)
+
+![Ejer  C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/5.PNG)
+
+![Ejer 43 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/6.PNG)
+
+![Ejer 45 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/7.PNG)
+
+![Ejer 47 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/8.PNG)
+
+![Ejer 49 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/9.PNG)
+
+![Ejer  C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/10.PNG)
+
+![Ejer 51 C9](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/11.PNG)
 
 
 _Capítulo 10_       
 
+![Ejer 1](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/12.PNG)
+![Ejer ](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/13.PNG)
+![Ejer 3-5-7](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/14.PNG)
+![Ejer 9-11](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/15.PNG)
+![Ejer 13-15](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/16.PNG)
+![Ejer 19](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/19.png)
 
 ![Ejer 19](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/19.png)        
 ![Ejer 23](https://github.com/AlexMP98/Tarea-N-5/blob/main/Imagenes/23.png)       
