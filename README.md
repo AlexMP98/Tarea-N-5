@@ -84,7 +84,7 @@ _Capítulo 10_
 
 
 **4. VIDEO**    
-Link del video:      
+Link del video:https://youtu.be/3zF3ph-SD3k  
 
 **5. CONCLUSIONES**       
 * Se concluye que al momento de analizar circuitos complejos y al momento de resolverlos, podemos optar por el uso de un teorema de redes para que de esta manera se pueda simplificar el circuito y así poder resolverlo sin ningún tipo de problema.    
